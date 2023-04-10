@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mauri\\Desktop\\Projeto Web\\Projeto Web.csproj": {}
+    "C:\\Users\\mauri\\Desktop\\ProjetoWeb\\Projeto Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mauri\\Desktop\\Projeto Web\\Projeto Web.csproj": {
+    "C:\\Users\\mauri\\Desktop\\ProjetoWeb\\Projeto Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mauri\\Desktop\\Projeto Web\\Projeto Web.csproj",
+        "projectUniqueName": "C:\\Users\\mauri\\Desktop\\ProjetoWeb\\Projeto Web.csproj",
         "projectName": "Projeto Web",
-        "projectPath": "C:\\Users\\mauri\\Desktop\\Projeto Web\\Projeto Web.csproj",
+        "projectPath": "C:\\Users\\mauri\\Desktop\\ProjetoWeb\\Projeto Web.csproj",
         "packagesPath": "C:\\Users\\mauri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mauri\\Desktop\\Projeto Web\\obj\\",
+        "outputPath": "C:\\Users\\mauri\\Desktop\\ProjetoWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mauri\\AppData\\Roaming\\NuGet\\NuGet.Config"

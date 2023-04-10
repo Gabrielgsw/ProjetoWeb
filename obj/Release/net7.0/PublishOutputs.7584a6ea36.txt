@@ -1,0 +1,7 @@
+C:\Users\mauri\Desktop\ProjetoWeb\bin\Release\net7.0\publish\Projeto Web.exe
+C:\Users\mauri\Desktop\ProjetoWeb\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Users\mauri\Desktop\ProjetoWeb\bin\Release\net7.0\publish\appsettings.json
+C:\Users\mauri\Desktop\ProjetoWeb\bin\Release\net7.0\publish\Projeto Web.dll
+C:\Users\mauri\Desktop\ProjetoWeb\bin\Release\net7.0\publish\Projeto Web.deps.json
+C:\Users\mauri\Desktop\ProjetoWeb\bin\Release\net7.0\publish\Projeto Web.runtimeconfig.json
+C:\Users\mauri\Desktop\ProjetoWeb\bin\Release\net7.0\publish\Projeto Web.pdb

@@ -1,0 +1,26 @@
+C:\Users\mauri\Desktop\ProjetoWeb\bin\Release\net7.0\appsettings.Development.json
+C:\Users\mauri\Desktop\ProjetoWeb\bin\Release\net7.0\appsettings.json
+C:\Users\mauri\Desktop\ProjetoWeb\bin\Release\net7.0\Projeto Web.exe
+C:\Users\mauri\Desktop\ProjetoWeb\bin\Release\net7.0\Projeto Web.deps.json
+C:\Users\mauri\Desktop\ProjetoWeb\bin\Release\net7.0\Projeto Web.runtimeconfig.json
+C:\Users\mauri\Desktop\ProjetoWeb\bin\Release\net7.0\Projeto Web.dll
+C:\Users\mauri\Desktop\ProjetoWeb\bin\Release\net7.0\Projeto Web.pdb
+C:\Users\mauri\Desktop\ProjetoWeb\obj\Release\net7.0\Projeto Web.csproj.AssemblyReference.cache
+C:\Users\mauri\Desktop\ProjetoWeb\obj\Release\net7.0\Projeto Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\Desktop\ProjetoWeb\obj\Release\net7.0\Projeto Web.AssemblyInfoInputs.cache
+C:\Users\mauri\Desktop\ProjetoWeb\obj\Release\net7.0\Projeto Web.AssemblyInfo.cs
+C:\Users\mauri\Desktop\ProjetoWeb\obj\Release\net7.0\Projeto Web.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Desktop\ProjetoWeb\obj\Release\net7.0\Projeto Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mauri\Desktop\ProjetoWeb\obj\Release\net7.0\staticwebassets\msbuild.Projeto Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mauri\Desktop\ProjetoWeb\obj\Release\net7.0\staticwebassets\msbuild.build.Projeto Web.props
+C:\Users\mauri\Desktop\ProjetoWeb\obj\Release\net7.0\staticwebassets\msbuild.buildMultiTargeting.Projeto Web.props
+C:\Users\mauri\Desktop\ProjetoWeb\obj\Release\net7.0\staticwebassets\msbuild.buildTransitive.Projeto Web.props
+C:\Users\mauri\Desktop\ProjetoWeb\obj\Release\net7.0\staticwebassets.pack.json
+C:\Users\mauri\Desktop\ProjetoWeb\obj\Release\net7.0\staticwebassets.build.json
+C:\Users\mauri\Desktop\ProjetoWeb\obj\Release\net7.0\staticwebassets.development.json
+C:\Users\mauri\Desktop\ProjetoWeb\obj\Release\net7.0\scopedcss\bundle\Projeto Web.styles.css
+C:\Users\mauri\Desktop\ProjetoWeb\obj\Release\net7.0\Projeto Web.dll
+C:\Users\mauri\Desktop\ProjetoWeb\obj\Release\net7.0\refint\Projeto Web.dll
+C:\Users\mauri\Desktop\ProjetoWeb\obj\Release\net7.0\Projeto Web.pdb
+C:\Users\mauri\Desktop\ProjetoWeb\obj\Release\net7.0\Projeto Web.genruntimeconfig.cache
+C:\Users\mauri\Desktop\ProjetoWeb\obj\Release\net7.0\ref\Projeto Web.dll
