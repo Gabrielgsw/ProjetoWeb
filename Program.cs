@@ -19,8 +19,43 @@ public class Program
         app.MapGet("/clientes",(string nome, string email) =>$"O nome do cliente escolhido é: {nome} \n O email do cliente é: {email}");
         Pessoa p1=new Pessoa() {id=1, nome="Gabriel"};
 
-        app.MapGet("/fornecedores" , () =>
-            $"O fornecedo é: {p1.id} - {p1.nome}");
+
+        //app.MapGet("/fornecedores" , () =>
+            //$"O fornecedor é: {p1.id} - {p1.nome}");
+        app.MapGet("/fornecedores", (HttpContext contexto) =>
+        {
+            string pagina = "<h1> Fornecedores </h1>";
+            pagina = pagina + $"<h2> ID:{p1.id} - Nome: {p1.nome} </h2>"; 
+
+           contexto.Response.WriteAsync("<h1> Fornecedores </h1>");
+
+
+        });
+
+        app.MapGet("/fornecedoresEnviarDados", (int id, string nome) =>
+            {
+            p1.id = id;
+            p1.nome = nome;
+            return "Dados inseridos com sucesso";
+            }
+                );
+
+
+
+        app.MapGet("/api", (Func<object>) (() => {
+        return new{
+            id= p1.id, nome = p1.nome
+        };
+        }
+        ));
+
+        Banco dba = new Banco();
+        dba.CarregarBanco();
+        app.MapGet("/banco", ()=>{
+
+            return dba.mensagem;
+        }
+        );
         app.Run();
     }
 }
