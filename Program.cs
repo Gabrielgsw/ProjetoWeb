@@ -37,23 +37,30 @@ public class Program
             p1.id = id;
             p1.nome = nome;
             return "Dados inseridos com sucesso";
-            }
-                );
-
-
+            });
 
         app.MapGet("/api", (Func<object>) (() => {
         return new{
             id= p1.id, nome = p1.nome
-        };
+            };
         }
         ));
 
         Banco dba = new Banco();
-        dba.CarregarBanco();
+        dba.carregarBanco();
         app.MapGet("/banco", ()=>{
 
-            return dba.mensagem;
+          var valoresdalista="";      
+          List<Pessoa> listaaux = dba.GetLista();
+          foreach(Pessoa aux in listaaux)
+          {
+                valoresdalista = valoresdalista + $"<b>ID: </b>{aux.id} - <b>Nome: {aux.nome}</b> <br>";     
+
+          }  
+
+            //return valoresdalista
+            contexto.Response.WriteAsync(valoresdalista);
+            //return dba.mensagem;
         }
         );
         app.Run();
